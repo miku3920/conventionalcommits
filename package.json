@@ -1,0 +1,19 @@
+{
+  "name": "conventionalcommits",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miku3920/conventionalcommits"
+  },
+  "author": "miku3920",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miku3920/conventionalcommits/issues"
+  },
+  "homepage": "https://github.com/miku3920/conventionalcommits#readme"
+}
